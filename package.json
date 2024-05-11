@@ -5,6 +5,7 @@
   "homepage": "https://github.com/movie-web/backend",
   "engines": {
     "node": ">=18"
+    "packageManager": "pnpm"
   },
   "scripts": {
     "dev": "nodemon -r tsconfig-paths/register src/main.ts",
